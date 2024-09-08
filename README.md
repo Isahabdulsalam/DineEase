@@ -24,7 +24,7 @@ My personal focus was on building a user-friendly and visually appealing website
 
 ## About Us
 
-This project is the final project of the ALX program, where we applied our skills in web development to create a comprehensive restaurant website.
+This project is the final project of the ALX program, where i applied my skills in web development to create a comprehensive restaurant website.
 
 ## Features
 
@@ -96,4 +96,4 @@ I am Isah Abdulsalam, a passionate software developer who enjoys creating engagi
 
 ---
 
-Thank you for visiting our restaurant website project! We hope you find it useful and engaging.
+Thank you for visiting my restaurant website project! My hope you find it useful and engaging.
