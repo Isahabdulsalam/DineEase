@@ -8,7 +8,7 @@ Welcome to our Restaurant Website project! This is the final portfolio project f
 
 ## Team Members
 
-- Isah Abdulsalam (Sole Developer)
+- Isah Abdulsalam (Software Developer)
 
 ## Purpose
 
@@ -86,13 +86,13 @@ You can view the live website [here](https://your-deployed-website-link).
 
 ## About Me
 
-I am Isah Abdulsalam, a passionate web developer who enjoys creating engaging and functional web applications. Connect with me on [LinkedIn](https://www.linkedin.com/in/isah-abdulsalam) and check out my [GitHub](https://github.com/isahabdulsalam) for more projects.
+I am Isah Abdulsalam, a passionate software developer who enjoys creating engaging and functional web applications. Connect with me on [LinkedIn](https://www.linkedin.com/in/isahabdulsalam) and check out my [GitHub](https://github.com/isahabdulsalam) for more projects.
 
 ## Links
 
-- [GitHub Repository](https://github.com/isahabdulsalam/restaurant-website)
+- [GitHub Repository](https://github.com/isahabdulsalam/DineEase)
 - [Deployed Website](https://your-deployed-website-link)
-- [LinkedIn](https://www.linkedin.com/in/isah-abdulsalam)
+- [LinkedIn](https://www.linkedin.com/in/isahabdulsalam)
 
 ---
 
