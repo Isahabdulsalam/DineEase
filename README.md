@@ -69,14 +69,9 @@ One of the most difficult technical challenges was ensuring the website's respon
 
 Coordinating the design and content layout to provide a seamless user experience was a significant non-technical challenge. We had to iterate through several designs and gather feedback to finalize the layout.
 
-## Screenshots
-
-![Landing Page](path/to/landing-page-screenshot.jpg)
-![Menu Section](path/to/menu-section-screenshot.jpg)
-
 ## Deployment
 
-You can view the live website [here](https://your-deployed-website-link).
+You can view the live website [here](https://isahabdulsalam.github.io/DineEase/).
 
 ## Lessons Learned
 
@@ -91,7 +86,7 @@ I am Isah Abdulsalam, a passionate software developer who enjoys creating engagi
 ## Links
 
 - [GitHub Repository](https://github.com/isahabdulsalam/DineEase)
-- [Deployed Website](https://your-deployed-website-link)
+- [Deployed Website](https://isahabdulsalam.github.io/DineEase/)
 - [LinkedIn](https://www.linkedin.com/in/isahabdulsalam)
 
 ---
