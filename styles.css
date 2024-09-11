@@ -256,14 +256,19 @@ nav .navbar a:hover{
 }
 header.hero{
     height:600px;
-    background-image:url(./icons/background.jpeg);
+    /**background-image:url(./icons/background.jpeg);
     background-size: cover;
     background-position: 0% 0%;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;**/
     overflow:hidden;
 }
 header.hero .container{
     position: relative;
+    background-image:url(./icons/background.jpeg);
+    background-repeat: no-repeat;
+    background-position: 0% 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 header.hero .welcome{
     margin-bottom:0.25rem;
