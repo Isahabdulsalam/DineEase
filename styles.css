@@ -256,7 +256,7 @@ nav .navbar a:hover{
 }
 header.hero{
     height:600px;
-    background-image:url(C:\Users\Hp\Documents\hero-bg);
+    background-image:url(./icons/background.jpeg);
     background-position: 0% 0%;
     background-repeat: no-repeat;
     overflow:hidden;
