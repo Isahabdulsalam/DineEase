@@ -1,6 +1,6 @@
 # Restaurant Website Project
 
-![Restaurant Banner](path/to/banner-image.jpg)
+![Restaurant Banner](./icons/banner.png)
 
 ## Introduction
 
