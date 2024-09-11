@@ -55,7 +55,7 @@ For the front end, we chose to use HTML5, CSS3, and JavaScript without any addit
 
 **Week 2:**
 
-- **Progress Rating**: 9/10
+- **Progress Rating**: 8/10
 - **Completed**: Fully functional landing page, about us, services, and contact sections.
 - **Incomplete**: Blog section and newsletter subscription form.
 
