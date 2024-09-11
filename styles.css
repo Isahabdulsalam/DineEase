@@ -269,6 +269,9 @@ header.hero .container{
     background-position: 0% 0%;
     background-repeat: no-repeat;
     background-size: cover;
+    padding: 20px; /* Add padding as needed */
+    width: 300px; /* Set a specific width */
+    height: 200px; /* Set a specific height to see the background image */
 }
 header.hero .welcome{
     margin-bottom:0.25rem;
