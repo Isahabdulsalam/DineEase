@@ -94,4 +94,5 @@ I am Isah Abdulsalam, a passionate software developer who enjoys creating engagi
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
+---
 Thank you for visiting my restaurant website project! My hope you find it useful and engaging.
